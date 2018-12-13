@@ -11,6 +11,9 @@ public class App
         System.out.println(new Integer(100));
         System.out.println("aaa");
         System.out.println("bbb");
+        System.out.println("bbb");
+        System.out.println("bbb");
+        System.out.println("bbb");
         
     }
 }
