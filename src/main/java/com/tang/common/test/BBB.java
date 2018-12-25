@@ -5,6 +5,6 @@ public class BBB {
 
         System.out.println(new Integer(350));
 
-        System.out.println(new Integer(200));
+        System.out.println(new Integer(800));
     }
 }
