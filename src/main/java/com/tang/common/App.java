@@ -7,7 +7,7 @@ package com.tang.common;
 public class App {
 	public static void main(String[] args) {
 
-		System.out.println("bbbbbbbbbbbbb33333");
+		System.out.println("cccc");
 		System.out.println(new Integer(100));
 
 	}
